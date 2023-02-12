@@ -55,4 +55,5 @@
 ![Slide54](/ppt/Slide54.PNG)
 
 # How to cite
-F. Afdideh, M. B. Shamsollahi, S. N. Resalat, “Development of a MATLAB-Based Toolbox for Brain Computer Interface Applications in Virtual Reality,” Iranian Conference on Electrical Engineering (ICEE), pp. 1579-1583, 2012. 
+* F. Afdideh. Brain-Computer Interface for Navigation in Virtual Environments. Electrical Engineering. Sharif University of Technology, 2011. Persian. ‭05-41575.
+* F. Afdideh, M. B. Shamsollahi, S. N. Resalat, “Development of a MATLAB-Based Toolbox for Brain Computer Interface Applications in Virtual Reality,” Iranian Conference on Electrical Engineering (ICEE), pp. 1579-1583, 2012. 
